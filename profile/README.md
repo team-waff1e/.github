@@ -24,7 +24,8 @@
 
 ### ARCHITECTURE
 - ERD
-![image](https://github.com/team-waff1e/.github/assets/93433538/621ea7c4-6d0b-4378-be64-56d7fa69ba83)
+![waffle (1)](https://github.com/team-waff1e/.github/assets/93433538/585dfeff-1ad5-44a5-b891-fe13dd67f168)
+
 
 <!--
 
